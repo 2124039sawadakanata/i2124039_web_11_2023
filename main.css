@@ -1,5 +1,6 @@
 body {
     background: #efefef;
+
 }
 
 .menu {
@@ -8,6 +9,7 @@ body {
     max-width: 400px;
     flex-wrap: wrap;
     margin: auto;
+    font-family: 'Stick', sans-serif;
 
 }
 
@@ -31,6 +33,8 @@ body {
 .card-wrap {
     display: flex;
     flex-wrap: wrap;
+    font-family: 'Kiwi Maru', serif;
+    font-family: 'Stick', sans-serif;
 }
 
 .txt {
